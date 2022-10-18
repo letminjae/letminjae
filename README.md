@@ -8,7 +8,7 @@
 
   <a href="https://github.com/letminjae"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fletminjae&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
-  <a href="https://www.notion.so/letminjae/374257764100476abffeafeea4c86efa"><img src="https://img.shields.io/badge/letminjae.Portfolio-3DDC84?style=for-the-badge"/></a>
+  <a href="https://www.notion.so/letminjae/374257764100476abffeafeea4c86efa"><img src="https://img.shields.io/badge/Portfolio-3DDC84?style=for-the-badge"/></a>
 
   <br>
 
