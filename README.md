@@ -1,15 +1,32 @@
-<div align="center">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cha%20Minjae&fontSize=48&fontColor=ffffff&animation=fadeIn)
 
-  <a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letminjae&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+## Introduce
+저는 **QA 엔지니어**입니다. <br>
+Selenium과 Playwright를 사용한 테스트 자동화에 관심이 많습니다. <br>
+이전에는 Javascript, React, Next.js를 사용한 프론트엔드 개발 경험이 있으며, Node.js로 간단한 백엔드 개발 또한 가능합니다. <br>
 
-  ### 🐣 Min Jae 🐥 
+## Contact
 
-  ---
+<a href="https://tistory.com/letminjae"><img src="https://img.shields.io/badge/tistory-00B5CC?style=for-the-badge&logo=tistory&logoColor=white"></a>
+<a href="mailto:cmjj0824@gmail.com"><img src="https://img.shields.io/badge/cmjj0824@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-  <a href="https://github.com/letminjae"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fletminjae&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+## Tech Stack
 
-  <a href="https://www.notion.so/letminjae/374257764100476abffeafeea4c86efa"><img src="https://img.shields.io/badge/Portfolio-3DDC84?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/selenium-4DC0B5?style=for-the-badge&logo=selenium&logoColor=white"> <img src="https://img.shields.io/badge/playwright-FF6B6B?style=for-the-badge&logo=playwright&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
-  <br>
+---
 
-</div>
+## 📈 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=letminjae&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letminjae&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+---
