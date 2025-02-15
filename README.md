@@ -7,7 +7,7 @@ Selenium과 Playwright를 사용한 테스트 자동화에 관심이 많습니�
 
 ## Contact
 
-<a href="https://tistory.com/letminjae"><img src="https://img.shields.io/badge/tistory-00B5CC?style=for-the-badge&logo=tistory&logoColor=white"></a>
+<a href="https://letminjae.tistory.com/"><img src="https://img.shields.io/badge/tistory-00B5CC?style=for-the-badge&logo=tistory&logoColor=white"></a>
 <a href="mailto:cmjj0824@gmail.com"><img src="https://img.shields.io/badge/cmjj0824@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## Tech Stack
