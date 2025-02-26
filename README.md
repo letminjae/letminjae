@@ -2,8 +2,8 @@
 
 ## Introduce
 저는 끊임없이 소프트웨어를 탐구하고 개선하여 사용자 중심 품질을 보장하는 **QA 엔지니어**입니다. <br>
-Selenium과 Playwright를 사용한 테스트 자동화에 관심이 많습니다. <br>
-이전에는 Javascript, React, Next.js를 사용한 프론트엔드 개발 경험이 있으며, Node.js로 간단한 백엔드 개발 또한 가능합니다. <br>
+Selenium과 Playwright를 사용한 테스트 자동화 시스템 구축에 관심이 많습니다. <br>
+이전에는 Typescript, React, Next.js를 사용한 프론트엔드 개발 경험이 있으며, Node.js로 간단한 백엔드 개발 또한 가능합니다. <br>
 
 ## Contact
 
