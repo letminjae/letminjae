@@ -21,7 +21,7 @@ Selenium과 Playwright를 사용한 테스트 자동화 시스템 구축에 관�
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=letminjae&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=letminjae&count_private=true&show_icons=true&theme=radical" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letminjae&layout=compact&theme=radical" />
