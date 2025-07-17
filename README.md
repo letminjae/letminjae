@@ -21,7 +21,7 @@ Selenium과 Playwright를 사용한 테스트 자동화 시스템 구축에 관�
 <table>
   <tr>
     <td>
-      <img src="https://solved.ac/badge/my-profile/letminjae.svg alt="Solved.ac Profile" />
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cmjj0824" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letminjae&layout=compact&theme=radical" />
