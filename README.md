@@ -18,15 +18,8 @@ Typescript, React, Next.js를 사용한 프론트엔드 개발 경험이 있으�
 
 ## 📈 Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cmjj0824" />
-    </td>
-    <td>
-      <img src="https://metrics.lecoq.io/letminjae?template=classic&base=&plugin_languages=1&plugin_languages_sections=most-used&plugin_languages_details=bytes-size%2C%20percentage&plugin_languages_limit=8&theme=radical" />
-    </td>
-  </tr>
-</table>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cmjj0824" />
+
+![Languages Activity](github-metrics.svg)
 
 ---
