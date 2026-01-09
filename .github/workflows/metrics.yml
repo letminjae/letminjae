@@ -39,7 +39,7 @@ jobs:
 
           plugin_recent_posts: yes
           plugin_recent_posts_source: github
-          plugin_recent_posts: 4
+          plugin_recent_posts_limit: 4
 
           config_timezone: Asia/Seoul
           theme: radical
