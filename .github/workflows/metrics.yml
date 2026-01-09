@@ -31,5 +31,15 @@ jobs:
           repositories_batch: 200
           plugin_languages_limit: 8
 
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 30
+          plugin_activity_filter: push, issue, pr
+          plugin_activity_visibility: all
+
+          plugin_recent_posts: yes
+          plugin_recent_posts_source: github
+          plugin_recent_posts: 4
+
           config_timezone: Asia/Seoul
           theme: radical
