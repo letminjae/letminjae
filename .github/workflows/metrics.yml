@@ -1,4 +1,4 @@
-name: Metrics Debug
+name: Stable Metrics
 on:
   # 매일 자정 자동 업데이트
   schedule: 
@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: GitHub Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -28,13 +28,8 @@ jobs:
           # 최근 언어 활동만 활성화
           plugin_activity: yes
           plugin_activity_limit: 8
-          plugin_activity_days: 30
+          plugin_activity_days: 15
           plugin_activity_visibility: all
-          plugin_activity_timestamps: yes
-
-          plugin_recent_posts: yes
-          plugin_recent_posts_source: github
-          plugin_recent_posts_limit: 4
 
           config_timezone: Asia/Seoul
           theme: radical
