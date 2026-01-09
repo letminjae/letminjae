@@ -18,8 +18,9 @@ Typescript, React, Next.js를 사용한 프론트엔드 개발 경험이 있으�
 
 ## 📈 Stats
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cmjj0824" />
-
-![Languages Activity](github-metrics.svg)
-
+<p>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cmjj0824" width="48%" />
+  <img src="https://raw.githubusercontent.com/letminjae/letminjae/main/github-metrics.svg" width="48%" />
+</p>
+  
 ---
