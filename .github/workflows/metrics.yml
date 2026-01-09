@@ -22,13 +22,10 @@ jobs:
           template: classic
           base: ""
 
-          # 모든 언어 관련 제거
-          plugin_languages: no
-
           # 최근 언어 활동만 활성화
           plugin_activity: yes
-          plugin_activity_limit: 8
-          plugin_activity_days: 15
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
           plugin_activity_visibility: all
 
           config_timezone: Asia/Seoul
