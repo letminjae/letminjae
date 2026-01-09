@@ -1,4 +1,4 @@
-name: Metrics
+name: Metrics Debug
 on:
   # 매일 자정 자동 업데이트
   schedule: 
